@@ -1,7 +1,5 @@
-# TEMPLATE repo for Modules
+# Welcome to Fundamentals
 
 ## Tasks
-- [ ] Set up example board 
-- [ ] Populate repo with coursework issues from Google Classroom Boilerplate
-- [ ] Add core Actions from org store https://docs.github.com/en/actions/creating-actions/sharing-actions-and-workflows-with-your-organization
-
+- [ ] Set up your [Coursework Planner](https://github.com/CodeYourFuture/Coursework-Planner)
+- [ ] Get started on your prep work!
